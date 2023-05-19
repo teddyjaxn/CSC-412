@@ -1,0 +1,88 @@
+    1  ls
+    2  cd desktop
+    3  cd ./desktop
+    4  cd Desktop
+    5  ls
+    6  cd ..
+    7  cd Dropbox
+    8  ls\
+    9  ls
+   10  cd CSC412
+   11  ls
+   12  cd CSC412_crossover
+   13  ls
+   14  gcc -v
+   15  sudo apt install gcc
+   16  gcc -v
+   17  gcc ./prog01.c
+   18  ./a.ou 9 8
+   19  ./a.out 9 8
+   20  gcc ./prog01.c -o prog01
+   21  gcc ./prog01.c -o prog01.out
+   22  ./prog01.out 9 8
+   23  ./prog01.out 9 80
+   24  ./prog01.out 9 80 3
+   25  ./prog01.out 9 80 3 
+   26  ./prog01.out 9
+   27  ./prog01.out 9 8
+   28  gcc ./prog01.c -o prog01.out
+   29  ./prog01.out 9 8
+   30  ./prog01.out 9 8 3 3
+   31  ./prog01.out 9 333333
+   32  gcc ./prog01.c -o prog01.out
+   33  ./prog01.out 9 333333
+   34  ./prog01.out 9 333333 5
+   35  ./prog01.out 9
+   36  ./prog01.out 9 333333 5
+   37  ./prog01.out 9 333333 
+   38  cd Desktop
+   39  ls
+   40  cd ..
+   41  ls
+   42  cd Dropbox
+   43  ls
+   44  cd CSC412
+   45  ls
+   46  cd CSC412_crossover
+   47  ls
+   48  script01.sh prog
+   49  script01 prog
+   50  script01.sh
+   51  ./script01.sh
+   52  sudo ./script01.sh
+   53  sudo ./script01
+   54  sudo ./script01.sh
+   55  ./script01.sh
+   56  chmod +x script01.sh
+   57  ./script01.sh
+   58  ./script01.sh myProg
+   59  cd
+   60  man -k
+   61  mkdir
+   62  mkdir newfoldor
+   63  ls
+   64  cd newfoldor
+   65  pwd
+   66  pwd > path.txt
+   67  pr path.txt
+   68  cd..
+   69  cd ..
+   70  cd Dropbox
+   71  ls
+   72  cd CSC412
+   73  ls
+   74  cd CSC412_crossover
+   75  ls
+   76  pr path.txt
+   77  cd
+   78  mkdir newfolder
+   79  pwd
+   80  touch
+   81  touch fyle
+   82  ls
+   83  ls -la
+   84  history
+   85  ls
+   86  history
+   87  ls
+   88  history > history.txt
